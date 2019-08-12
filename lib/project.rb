@@ -1,5 +1,3 @@
-require_relative('../lib/backer')
-
 class Project
 
     attr_reader :backers, :title
